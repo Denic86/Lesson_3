@@ -1,0 +1,44 @@
+h1 {
+	color: mediumspringgreen;
+}
+ul {
+	color: turquoise;
+}
+
+.nav a {
+	color: brown;
+}
+h2 {
+	color: red;
+}
+.h2 * {
+	color: pink;
+}
+span {
+	color: rgb(84, 169, 180);
+}
+.text .paragraf {
+	color: lime;
+}
+.span {
+	color: violet;
+}
+.paragraf + p {
+	color: tomato;
+}
+#part2 {
+	color: green;
+}
+.part2__paragraf,
+.part2__paragraf ~ p {
+	color: salmon;
+}
+.part2__paragraf > span {
+	color: orange;
+}
+p {
+	color: indigo;
+}
+.paragraf {
+	color: red;
+}
